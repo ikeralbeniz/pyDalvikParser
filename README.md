@@ -1,7 +1,7 @@
-pyDalvickParser
+pyDalvikParser
 ===============
 
-pyDalvickParser is Python Parser for Dalvik executables. The purpose of this library is to generate an Open Source and easy to understand python library for dalvik executable and android apk file disassembling.
+pyDalvikParser is Python Parser for Dalvik executables. The purpose of this library is to generate an Open Source and easy to understand python library for dalvik executable and android apk file disassembling.
 
 
 
