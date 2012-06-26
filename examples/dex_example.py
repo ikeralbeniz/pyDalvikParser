@@ -3,7 +3,7 @@ sys.path.insert(0, '../src')
 
 ######################################################
 
-from pyDalvickParser import *
+from pyDalvikParser import *
 dex = Dalvik.fromfilename('./samples/classes.dex')
 
 print "List of methods:"

@@ -3,7 +3,7 @@ sys.path.insert(0, '../src')
 
 ######################################################
 
-from pyDalvickParser import *
+from pyDalvikParser import *
 apk = AndroidApp('./samples/Chess.apk')
 
 if apk.isvalidAPK == True:
